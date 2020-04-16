@@ -1,0 +1,8 @@
+*.pyc
+**/spark-warehouse/
+**/__pycache__/
+*.vscode
+**/tags
+Regex1
+*.docx
+
